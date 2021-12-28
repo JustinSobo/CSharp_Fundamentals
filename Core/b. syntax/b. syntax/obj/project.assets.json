@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spart\\Documents\\GitHub\\CSharp-Fundamentals\\VS\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\spart\\Documents\\GitHub\\CSharp-Fundamentals\\VS\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\spart\\Documents\\GitHub\\CSharp-Fundamentals\\Core\\b. syntax\\b. syntax\\b. syntax.csproj",
+      "projectName": "b. syntax",
+      "projectPath": "C:\\Users\\spart\\Documents\\GitHub\\CSharp-Fundamentals\\Core\\b. syntax\\b. syntax\\b. syntax.csproj",
       "packagesPath": "C:\\Users\\spart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spart\\Documents\\GitHub\\CSharp-Fundamentals\\VS\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\spart\\Documents\\GitHub\\CSharp-Fundamentals\\Core\\b. syntax\\b. syntax\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spart\\AppData\\Roaming\\NuGet\\NuGet.Config",
