@@ -13,3 +13,8 @@ double -> 8 bytes -> // Stores fractional numbers. Sufficient for storing 15 dec
 bool -> 1 bit -> // Stores true or false values
 char -> 2 bytes -> // Stores a single character/letter, surrounded by single quotes
 string -> 2 bytes per character -> // Stores a sequence of characters, surrounded by double quotes
+
+
+
+
+//BOOKMARK--------------------------------
