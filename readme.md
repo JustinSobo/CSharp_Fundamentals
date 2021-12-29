@@ -75,21 +75,21 @@ Microsoft Docs:
     - <https://dotnet.microsoft.com/download>
 
 2. Confirm Installation
-        - <dotnet --version>
+    - dotnet --version
 
 3. Create Project
-    - <dotnet new console -o app>
-    - <cd app>
-    - <code .> 
+    - dotnet new console -o app
+    - cd app
+    - code .
 
 4. Run Project (VS Code)
-    - <dotnet run>
+    - dotnet run
 
 5. Debug (VS Code)
-    - Open Command Palette: <CTRL + Shift + P>
+    - Open Command Palette: CTRL + Shift + P
     - Choose: ".NET: Generate Assets for Build and Debug"
     - Choosing this will generate a .vscode folder with a prepopulated build configuration in it.
     - Now go to the “Run and Debug” tab in VSCode, set your breakpoint(s), and click the Play button to debug.
 
 6. Compile Code
-    - <dotnet build>
+    - dotnet build
