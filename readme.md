@@ -88,8 +88,8 @@ https://docs.microsoft.com/en-us/dotnet/core/introduction
 5. Debug (VS Code)
 Open Command Palette: <CTRL + Shift + P>
 Choose: ".NET: Generate Assets for Build and Debug"
-- Choosing this will generate a .vscode folder with a prepopulated build configuration in it.
-- Now go to the “Run and Debug” tab in VSCode, set your breakpoint(s), and click the Play button to debug.
+    - Choosing this will generate a .vscode folder with a prepopulated build configuration in it.
+    - Now go to the “Run and Debug” tab in VSCode, set your breakpoint(s), and click the Play button to debug.
 
 6. Compile Code
 <dotnet build>
