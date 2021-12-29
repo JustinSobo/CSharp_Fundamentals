@@ -1,3 +1,17 @@
+// C# Syntax
+using System;
+
+namespace a._syntax
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
 /*
 Line 1: using System means that we can use classes from the System namespace.
 Line 2: A blank line. C# ignores white space. However, multiple lines makes the code more readable.
@@ -13,15 +27,19 @@ Note: C# is case-sensitive: "MyClass" and "myclass" has different meaning.
 Note: Unlike Java, the name of the C# file does not have to match the class name, but they often do (for better organization). When saving the file, save it using a proper name and add ".cs" to the end of the filename. To run the example above on your computer, make sure that C# is properly installed: Go to the Get Started Chapter for how to install C#. The output should be: "Hello World!"
 */
 
-using System;
+// WriteLine or Write
+Console.WriteLine("Hello World!");  
+Console.WriteLine("I will print on a new line.");
+/*  
+Result: 
+Hello World!
+I will print on a new line.
+*/
 
-namespace a._syntax
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+Console.Write("Hello World! ");
+Console.Write("I will print on the same line.");
+/*  
+Result:
+Hello World! I will print on the same line.
+*/
+
