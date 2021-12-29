@@ -68,11 +68,11 @@ Why Use C#?
 
 
 # <--MANUALLY CREATE C# PROJECT VIA CLI-->
-Microsoft Docs:
-    - <https://docs.microsoft.com/en-us/dotnet/core/introduction>
+Microsoft Docs
+    - https://docs.microsoft.com/en-us/dotnet/core/introduction
 
 1. Install .NET
-    - <https://dotnet.microsoft.com/download>
+    - https://dotnet.microsoft.com/download
 
 2. Confirm Installation
     - dotnet --version
